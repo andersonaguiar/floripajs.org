@@ -13,7 +13,7 @@ html, body {
 }
 
 body {
-	background: url('../images/bg-body.jpg') center no-repeat;
+	background: url('../images/bg-body.jpg') center no-repeat #000;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
